@@ -1,6 +1,6 @@
 # Azure SDK for Java with Maven
 
-Get Started with Azure SDK for Java using Maven. Below are example code snippets for a few use cases. For additional information about Azure SDK for Java, see the [full documentation](https://learn.microsoft.com/azure/ai-studio/) and [samples](https://github.com/Azure/azure-sdk-for-java/tree/main/sdk/ai/azure-ai-projects/src/samples/java/com/azure/ai/projects).
+Get Started with Azure SDK for Java using Maven. Below are example code snippets for a few use cases. For additional information about Azure SDK for Java, see the [full documentation](https://learn.microsoft.com/azure/ai-foundry/) and [samples](https://github.com/Azure/azure-sdk-for-java/tree/main/sdk/ai/azure-ai-projects/src/samples/java/com/azure/ai/projects).
 
 ## 1. Authentication using Azure Identity
 
@@ -307,6 +307,6 @@ Add JUnit dependency to your pom.xml:
 
 ## Additional Resources
 
-- [Azure AI Studio Documentation](https://learn.microsoft.com/azure/ai-studio/)
+- [Azure AI Foundry Documentation](https://learn.microsoft.com/azure/ai-foundry/)
 - [Azure SDK for Java](https://github.com/Azure/azure-sdk-for-java)
 - [Azure Identity Documentation](https://docs.microsoft.com/java/api/overview/azure/identity-readme)

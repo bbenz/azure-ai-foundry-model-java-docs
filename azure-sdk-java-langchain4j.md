@@ -452,7 +452,7 @@ AI_SEARCH_KEY=your-search-key
 
 ## Additional Resources
 
-- [Azure AI Studio Documentation](https://learn.microsoft.com/azure/ai-studio/)
+- [Azure AI Foundry Documentation](https://learn.microsoft.com/azure/ai-foundry/)
 - [LangChain4j Documentation](https://github.com/langchain4j/langchain4j)
 - [Azure OpenAI Service Documentation](https://learn.microsoft.com/azure/ai-services/openai/)
 - [Azure AI Search Documentation](https://learn.microsoft.com/azure/search/)

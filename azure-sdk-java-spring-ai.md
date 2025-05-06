@@ -619,5 +619,5 @@ AZURE_AI_PROJECTS_ENDPOINT=your-ai-projects-endpoint
 
 - [Spring AI Documentation](https://docs.spring.io/spring-ai/reference/index.html)
 - [Spring Boot Documentation](https://docs.spring.io/spring-boot/docs/current/reference/html/)
-- [Azure AI Studio Documentation](https://learn.microsoft.com/azure/ai-studio/)
+- [Azure AI Foundry Documentation](https://learn.microsoft.com/azure/ai-foundry/)
 - [Azure OpenAI Service Documentation](https://learn.microsoft.com/azure/ai-services/openai/)

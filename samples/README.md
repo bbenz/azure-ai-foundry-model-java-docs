@@ -25,7 +25,7 @@ See the [Setup Guide](setup-guide.md) for information on how to set up your envi
 - Java Development Kit (JDK) 17 or later
 - Maven 3.6.0 or later
 - An Azure subscription with access to Azure AI services
-- Access to Azure AI Studio
+- Access to Azure AI Foundry
 
 ## Environment Variables
 
@@ -53,7 +53,7 @@ Each sample project can be built and run with Maven. See the individual project 
 
 ## Additional Resources
 
-- [Azure AI Studio Documentation](https://learn.microsoft.com/azure/ai-studio/)
+- [Azure AI Foundry Documentation](https://learn.microsoft.com/azure/ai-foundry/)
 - [Azure SDK for Java](https://github.com/Azure/azure-sdk-for-java)
 - [LangChain4j Documentation](https://github.com/langchain4j/langchain4j)
 - [Spring AI Documentation](https://docs.spring.io/spring-ai/reference/index.html)

@@ -19,7 +19,7 @@ This guide will walk you through the steps to set up and run the sample code for
   - Active subscription with access to Azure AI services
   
 - **Azure AI Services**
-  - Access to [Azure AI Studio](https://ai.azure.com)
+  - Access to [Azure AI Foundry](https://ai.azure.com)
   - Appropriate permissions to create and manage AI resources
 
 - **Azure CLI (optional but recommended)**
@@ -405,7 +405,7 @@ For production environments, you should use more secure methods for handling cre
 
 If you need help with the Azure SDK for Java, you can:
 
-- Reference the [Azure AI documentation](https://learn.microsoft.com/azure/ai-studio/)
+- Reference the [Azure AI documentation](https://learn.microsoft.com/azure/ai-foundry/)
 - Visit the [Azure SDK for Java GitHub repository](https://github.com/Azure/azure-sdk-for-java)
 - Contact [Azure Support](https://azure.microsoft.com/support/)
 

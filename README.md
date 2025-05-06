@@ -2,8 +2,6 @@
 
 This repository contains comprehensive documentation and sample code for using the Azure SDK for Java with focus on AI capabilities.
 
-> **Note**: The SDK has been renamed from "Azure AI Projects SDK" to "Azure SDK for Java" to better align with Azure naming conventions. Any references to "Azure AI Projects" in older code should be updated to "Azure AI".
-
 ## Documentation
 
 - [Azure SDK for Java with Maven](azure-sdk-java-maven.md) - Basic usage with Maven
@@ -65,11 +63,11 @@ The Azure SDK for Java provides access to:
 - Java Development Kit (JDK) 17 or later
 - Maven 3.6.0 or later
 - An Azure subscription with access to Azure AI services
-- Access to Azure AI Studio
+- Access to Azure AI Foundry
 
 ## Additional Resources
 
-- [Azure AI Studio Documentation](https://learn.microsoft.com/azure/ai-studio/)
+- [Azure AI Foundry Documentation](https://learn.microsoft.com/azure/ai-foundry/)
 - [Azure SDK for Java](https://github.com/Azure/azure-sdk-for-java)
 - [LangChain4j Documentation](https://github.com/langchain4j/langchain4j)
 - [Spring AI Documentation](https://docs.spring.io/spring-ai/reference/index.html)
