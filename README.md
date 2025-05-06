@@ -2,6 +2,25 @@
 
 This repository contains comprehensive documentation and sample code for using the Azure SDK for Java with focus on AI capabilities.
 
+See the [Setup Guide](setup-guide.md) for information on how to set up your environment and run the samples.
+
+## Prerequisites
+
+- Java Development Kit (JDK) 17 or later
+- Maven 3.6.0 or later
+- An Azure subscription with access to Azure AI services
+- Access to Azure AI Foundry
+
+## Features
+
+The Azure SDK for Java provides access to:
+
+- **Connections**: Manage connections to external services
+- **Deployments**: Work with deployed models
+- **Indexes**: Create and manage search indexes
+- **Datasets**: Manage AI datasets
+- **Evaluations**: Evaluate AI models
+
 ## Documentation
 
 - [Azure SDK for Java with Maven](azure-sdk-java-maven.md) - Basic usage with Maven
@@ -47,23 +66,6 @@ To get started with Azure SDK for Java:
    }
    ```
 
-## Features
-
-The Azure SDK for Java provides access to:
-
-- **Connections**: Manage connections to external services
-- **Deployments**: Work with deployed models
-- **Indexes**: Create and manage search indexes
-- **Datasets**: Manage AI datasets
-- **Evaluations**: Evaluate AI models
-- **Red Teams**: Work with Red Team testing
-
-## Requirements
-
-- Java Development Kit (JDK) 17 or later
-- Maven 3.6.0 or later
-- An Azure subscription with access to Azure AI services
-- Access to Azure AI Foundry
 
 ## Additional Resources
 

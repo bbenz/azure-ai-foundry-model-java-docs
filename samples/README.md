@@ -2,20 +2,6 @@
 
 This repository contains sample code for the Azure SDK for Java with focus on AI capabilities.
 
-## Documentation
-
-- [Azure SDK for Java with Maven](../azure-sdk-java-maven.md)
-- [Azure SDK for Java with LangChain4j](../azure-sdk-java-langchain4j.md)
-- [Azure SDK for Java with Spring AI](../azure-sdk-java-spring-ai.md)
-
-## Samples
-
-This repository contains three sample projects:
-
-1. **Maven**: Basic Java with Maven samples for using Azure SDK for Java directly.
-2. **LangChain4j**: Samples showing integration with LangChain4j framework.
-3. **Spring AI**: Samples showing integration with Spring AI framework.
-
 ## Getting Started
 
 See the [Setup Guide](setup-guide.md) for information on how to set up your environment and run the samples.
@@ -26,6 +12,18 @@ See the [Setup Guide](setup-guide.md) for information on how to set up your envi
 - Maven 3.6.0 or later
 - An Azure subscription with access to Azure AI services
 - Access to Azure AI Foundry
+
+## Samples
+
+This repository contains three sample projects:
+
+1. **Maven**: Basic Java with Maven samples for using Azure SDK for Java directly.
+2. **LangChain4j**: Samples showing integration with LangChain4j framework.
+3. **Spring AI**: Samples showing integration with Spring AI framework.
+
+## Building and Running the Samples
+
+Each sample project can be built and run with Maven. See the individual project directories for specific instructions.
 
 ## Environment Variables
 
@@ -47,9 +45,13 @@ AI_SEARCH_KEY=your-ai-search-key
 AZURE_AI_ENDPOINT=your-ai-endpoint
 ```
 
-## Building and Running the Samples
+## Documentation
 
-Each sample project can be built and run with Maven. See the individual project directories for specific instructions.
+- [Azure SDK for Java with Maven](../azure-sdk-java-maven.md)
+- [Azure SDK for Java with LangChain4j](../azure-sdk-java-langchain4j.md)
+- [Azure SDK for Java with Spring AI](../azure-sdk-java-spring-ai.md)
+
+
 
 ## Additional Resources
 
