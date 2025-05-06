@@ -1,0 +1,44 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug (Launch) - Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {      "type": "java",
+      "name": "Debug BasicConnectionSample",
+      "request": "launch",
+      "mainClass": "com.example.ai.projects.BasicConnectionSample",
+      "projectName": "azure-sdk-java-samples",
+      "env": {
+        "AZURE_AI_ENDPOINT": "${env:AZURE_AI_ENDPOINT}",
+        "CONNECTION_NAME": "${env:CONNECTION_NAME}"
+      }
+    },
+    {
+      "type": "java",
+      "name": "Debug LangChain4j Integration Sample",
+      "request": "launch",
+      "mainClass": "com.example.ai.projects.langchain.LangChainIntegrationSample",
+      "projectName": "azure-sdk-java-langchain4j-samples"
+    },    {
+      "type": "java", 
+      "name": "Debug Spring AI Application",
+      "request": "launch",
+      "mainClass": "com.example.ai.projects.spring.SpringAIApplication",
+      "projectName": "azure-sdk-java-springai-samples"
+    },
+    {
+      "type": "java",
+      "name": "Debug Key Vault Security Example",
+      "request": "launch",
+      "mainClass": "com.example.security.KeyVaultSecurityExample",
+      "projectName": "azure-sdk-java-samples",
+      "env": {
+        "AZURE_KEY_VAULT_URL": "${env:AZURE_KEY_VAULT_URL}"
+      }
+    }
+  ]
+}
